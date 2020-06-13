@@ -4,8 +4,8 @@ A Javascript based game in which snake eat apples untill it does not hit boundar
  
 Starting of the Game ::: 
 
-![alt text](http://url/to/1.png)
+![](1.png)
 
 Ending Of the Game :::
 
-![alt text](http://url/to/2.png)
+![](2.png)
